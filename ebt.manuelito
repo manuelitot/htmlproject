@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <body>
+<body>
+
 <h1> EBT WEBPAGE</h1>
-  <p>Manuelito Webpage</p>
-  <img src = 'https://ca-times.brightspotcdn.com/dims4/default/1c5bf1b/2147483647/strip/false/crop/1920x1080+0+0/resize/1486x836!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F35%2F4c%2F4db608d94df09fac5a6d9e5ed58a%2Fmonknologo-lat-yt-thumb.jpg' alt = 'dorjee grandpa'></img>
-  </body>
+<p>Manuelito Webpage</p>
+<img src = ''></img>
+  
+</body>
 </html>
