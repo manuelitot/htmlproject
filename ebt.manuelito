@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-<h1> EBT WEBPAGE</h1>
-<p>Manuelito Webpage</p>
-<img src = ''></img>
-  
-</body>
+<head>
+<meta charset = "utf-8"/>
+<meta name = "viewport" content= "width=device-width,initial-scale=1.0"/>
+<title>EBT BELL SCHEDULE</title>
+<head>
 </html>
