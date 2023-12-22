@@ -18,7 +18,7 @@ nav {
 }
 
 ul {
-   margin-left: 60px;
+   margin-left: 100px;
    text-align: center;
 
 }
@@ -27,7 +27,7 @@ ul li {
    list-style: none;
    display: inline-block;
    float: left;
-   line-height: 100px;
+   line-height: 150px;
    text-align: center;
 }
 
